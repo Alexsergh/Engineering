@@ -18,3 +18,7 @@
 | Задание 14 | + |
 | Задание 15 | + |
 
+## Задание 1
+### Установка
+![1](https://github.com/Alexsergh/Engineering/assets/134552389/b06c1c4d-3ded-44a6-9a3e-c53e42e239c2)
+
