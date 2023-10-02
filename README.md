@@ -22,3 +22,19 @@
 ### Установка
 ![1](https://github.com/Alexsergh/Engineering/assets/134552389/b06c1c4d-3ded-44a6-9a3e-c53e42e239c2)
 
+## Задание 2
+### Настройка
+![2 1](https://github.com/Alexsergh/Engineering/assets/134552389/6c79f7a4-7105-4274-a8be-a36c01ddbde6)
+
+## Задание 3
+### Создание нового репозитория
+![3 1](https://github.com/Alexsergh/Engineering/assets/134552389/57f43824-cd99-4f34-b47f-9a044c889fb6)
+
+## Задание 4
+### Подготовка файлов
+![4 1](https://github.com/Alexsergh/Engineering/assets/134552389/2570e4c1-7456-49eb-83a4-ea07a4a2b0c6)
+
+## Задание 5
+## Фиксация изменений
+![5 1](https://github.com/Alexsergh/Engineering/assets/134552389/d66a6d33-f968-49c6-a9bb-0216fd697b3f)
+
