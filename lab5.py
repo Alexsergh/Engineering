@@ -31,7 +31,6 @@
 # def useless(lst):
 #     return max(lst) / len(lst)
 #
-#
 # print(useless([1, 2, 3, 4, 5, 6, 7, 8, 9, 0]))
 # print(useless([42, 646, 97, 451, 787, 3]))
 # print(useless([1223, 4567, 890, 987, 654, 321]))
